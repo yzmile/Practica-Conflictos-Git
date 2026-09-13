@@ -1,2 +1,2 @@
 Hola mundo
-Este es mi proyecto
+Este es el proyecto de Pedro
