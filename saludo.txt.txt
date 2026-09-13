@@ -1,2 +1,6 @@
 Hola mundo
-Este es el proyecto de Pedro
+Este es el proyecto de yami
+estamos aprendiendo git
+
+
+
